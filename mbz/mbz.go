@@ -5,7 +5,7 @@ package mbz
 import (
 	"strings"
 
-	"github.com/unitnotes/audiotag"
+	"github.com/chaolong-1995/audiotag"
 )
 
 // Supported MusicBrainz tag names.
